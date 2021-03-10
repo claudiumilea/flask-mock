@@ -1,0 +1,322 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "282",
+                "short_name": "282",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Bulevardul Aurel Vlaicu",
+                "short_name": "Bulevardul Aurel Vlaicu",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Constanța",
+                "short_name": "Constanța",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Municipiul Constanța",
+                "short_name": "Municipiul Constanța",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Județul Constanța",
+                "short_name": "CT",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Romania",
+                "short_name": "RO",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "900482",
+                "short_name": "900482",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Bulevardul Aurel Vlaicu 282</span>, <span class=\"locality\">Constanța</span> <span class=\"postal-code\">900482</span>, <span class=\"country-name\">Romania</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Bulevardul Aurel Vlaicu 282, Constanța 900482, Romania",
+        "formatted_phone_number": "0800 110 111",
+        "geometry": {
+            "location": {
+                "lat": 44.2091145,
+                "lng": 28.6174979
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.2105441302915,
+                    "lng": 28.6187362802915
+                },
+                "southwest": {
+                    "lat": 44.2078461697085,
+                    "lng": 28.6160383197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "international_phone_number": "+40 800 110 111",
+        "name": "Penny Market Updated",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0730"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:30 AM – 10:00 PM",
+                "Tuesday: 7:30 AM – 10:00 PM",
+                "Wednesday: 7:30 AM – 10:00 PM",
+                "Thursday: 7:30 AM – 10:00 PM",
+                "Friday: 7:30 AM – 10:00 PM",
+                "Saturday: 7:30 AM – 10:00 PM",
+                "Sunday: 8:00 AM – 8:00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 5632,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104663018451637580475\">PENNY</a>"
+                ],
+                "photo_reference": "ATtYBwIyhaeJjmG0DQW9vnT2MOTLbpYriANXhSe9fytvdfXO8FJ-7finYHAcUQ0okD_4ex1AEFa2OJwH4_Ofm8ZIWBmS0Hm29oP0wX2KBPh2WCl-VbUCsARhotMdemyd6ekslYXyMiaRU7fIwgqzwUBGt-8v7Wi7uuK0jM_Wxtk1R_l0Miab",
+                "width": 4224
+            },
+            {
+                "height": 400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104663018451637580475\">PENNY</a>"
+                ],
+                "photo_reference": "ATtYBwL7HheRbttfbU10rNRD_oUlC_wI7rJIEruf27vj3Ydkqv4s2ty4olF-Prkg2_VDCQ3og2E7dPYVsXHoieW-xqyZn2sitHlcYf7pK3M0yFKbx74f7hk5u5abIyO79YLG3Us1lqf7JgrCS7cRfXWIY2_PvVnV5n03vSfiFgFgv8XMVmt2",
+                "width": 768
+            },
+            {
+                "height": 3480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105675374447097112009\">Dev pwnz</a>"
+                ],
+                "photo_reference": "ATtYBwKHEKDC2ZAgUmjsIxy7s9uHjCLX0_xFCS9icc5p1kKRez44MYcl0vfwCALH_BiRXQLbifJl3r4nGSOn8CQ4WgFvcWSiR35Hc_4_wZ0xJ_Vd4h5lgW0mIN5mWM0V_5z1HnUU_mMLDvtXODMRHczyGINB3m8v_yXMunv7AgYSCeu39kVT",
+                "width": 4640
+            },
+            {
+                "height": 5632,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104663018451637580475\">PENNY</a>"
+                ],
+                "photo_reference": "ATtYBwLbYBZRH_st3vYMAEuq_WgLRWEU7UikeiJkrX7jib9HgckgymANzV4YR0e3YKb1_tcF7UzFgQnjvtq9pMzkBLEnW9jDGS0YzaW9JrXGBXNeyxuHfzk8Muy3QAL1EyNHHSjhEyGYIdKYPkEaCj3cDcaDLZbDw3IAHRUqQBXOvc9It59P",
+                "width": 4224
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110612158308258857609\">Baștuca</a>"
+                ],
+                "photo_reference": "ATtYBwJvEpdqkIuQDfTptXiepJ3KRDXiLUo9amqE9Arx3U_uQCyXnKQXezJtRNdK6FJJlo9UQW5cgYn9JfcLigPbUZJHaOZJTEayO0jcBqcXTO3SWJsmfMQIL9vusqArfL2pDspTUHfTIO_HTSu7XKSAv9dT-3kzq7lAVXEEDail1Y_vb5q-",
+                "width": 4032
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110612158308258857609\">Baștuca</a>"
+                ],
+                "photo_reference": "ATtYBwIT77Osf5YQp0t2UoU1-Qa1wwxLMNTlUN5JgzNr0O4MM1sm3M_4MpOoHrwKPO-P_g-evO0pzPPlPajRVJAUAoG8nmx5Jn6vDwxoVBWlc1lcCAMpVcPsAy0eazG9Kp9-tL50VbCW0qI7HAyMxOB7cLhCowW44E1f6hVHSEtjdhwLGKt6",
+                "width": 4032
+            },
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106011863666901722357\">sergey homenko</a>"
+                ],
+                "photo_reference": "ATtYBwL6Ua-uF9SOGCnjYeAm-jJd78XJhgaK9JZ9FMFWT3F95_ZUeR8F56sijYXffOb6YLVzRLFHJHI5_oHIhVhwt_-0Bn0qHslqXhMmC2y0CrkLfY7deWPNPl1-Q2YbvGqEsiuvu4rYX0Ei3Nj76Pj33omQCbWvt1BjlyJEi4XyQhgeSxt9",
+                "width": 4160
+            },
+            {
+                "height": 4128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105401878069977570527\">Sorin Dincă</a>"
+                ],
+                "photo_reference": "ATtYBwKJqgXPJAMhQFWTEJ_G2kz_NXAKtCuecxD-OHvV8rUm7D4lfz5Mc-UqhyFIpJqXLP3Ekm90_eLg7Kw25Lp0R8LiN0Bxsjj_2sytxoRCA5uOeKseYcfMYkvdHhzK6hWMzNzw6QMj-ibx39igWugkeVFMAOgnyX72xXOFQunQzBGu4G8J",
+                "width": 3096
+            },
+            {
+                "height": 2482,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106940999670490847426\">Gabe TheDarkOne</a>"
+                ],
+                "photo_reference": "ATtYBwK69riIwOQIfWpIDmjyGIHdsWao6gvj_4RQZvbs_JeHnekp4OFGqgcLzTYEc8mIAJv4C0Ov9YSkNJKJ7ERhlLzoxFmOjy1Q1c6Mia5XF3e-HDCalj__6-CrhtKBvDGeIgsC4VUyC-se8PaqhpIrbeXoLJ8Y44DUKhLRrE2Xd0qsB6MX",
+                "width": 10800
+            },
+            {
+                "height": 2304,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108747177472667022211\">Dogaru Gabriel</a>"
+                ],
+                "photo_reference": "ATtYBwK1qOH2iqGGerzUkHC-qDb7eM8gFH2EHWr9kLk1VtZxpgEXfEY7CjiCdVDe_6RYepED2aVWtlP9uxTt4ylHQGxjLflTp_vLRlb097Rx9lLEZEoQ8cm-2infQRGbvpEbjWlCPhIgBfAaRloc_TILDoKwnbTE5pPxg8-Lem8xIO-UGDm7",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJFY7Y3xPwukARQ1bI5stEUYY",
+        "plus_code": {
+            "compound_code": "6J58+JX Constanța, Romania",
+            "global_code": "8GPC6J58+JX"
+        },
+        "rating": 4,
+        "reference": "ChIJFY7Y3xPwukARQ1bI5stEUYY",
+        "reviews": [
+            {
+                "author_name": "Mars Ionescu",
+                "author_url": "https://www.google.com/maps/contrib/116992918728125805757/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgVldlNXrG5KnPrIbFtNIzz7RtvtXv4Z5kbtr6hGQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 4,
+                "relative_time_description": "6 months ago",
+                "text": "Decent prices and nice staff.",
+                "time": 1597310307
+            },
+            {
+                "author_name": "Geo Georgiana",
+                "author_url": "https://www.google.com/maps/contrib/116508054562814689507/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gi7Vvuhe9Rwwhv7bb265Nj7ZWFzbsYv6kY3K_QF=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "4 months ago",
+                "text": "My happy place",
+                "time": 1603643682
+            },
+            {
+                "author_name": "Gurjinder Saggu",
+                "author_url": "https://www.google.com/maps/contrib/105791426041614644959/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GguKPjLcJMIQlZmAvtD5qeqly8Ff-4xJlAlxd2E=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 5,
+                "relative_time_description": "a week ago",
+                "text": "Reasonable price",
+                "time": 1613320674
+            },
+            {
+                "author_name": "Costin UNGUREANU",
+                "author_url": "https://www.google.com/maps/contrib/100760108850559488220/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhnpvERHwHm43qOmr9PTgDgMBytpiACw-w2bcfq=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "6 months ago",
+                "text": "Ok",
+                "time": 1598434652
+            },
+            {
+                "author_name": "Tano Sga",
+                "author_url": "https://www.google.com/maps/contrib/108383025128535259074/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gi-x79Zpd2CItz2cD_8GH19dYVgx7NJU0a_NcLvPg=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "6 months ago",
+                "text": "Nicr",
+                "time": 1597223002
+            }
+        ],
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=9678592716736845379",
+        "user_ratings_total": 1141,
+        "utc_offset": 120,
+        "vicinity": "Bulevardul Aurel Vlaicu 282, Constanța",
+        "website": "http://www.penny.ro/"
+    },
+    "status": "OK"
+}
